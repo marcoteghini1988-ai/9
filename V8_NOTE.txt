@@ -1,0 +1,1 @@
+V8: modelli 3D procedurali articolati in Three.js; base, torretta, canne, rinculo, luce, emettitore. La compilazione non e stata verificata: npm ci non completato in ambiente.

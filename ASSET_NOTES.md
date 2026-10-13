@@ -1,0 +1,1 @@
+Sprite PNG ritagliati dalla tavola grafica approvata. Le angolazioni sono variazioni illustrative; alcune armi non hanno una corrispondenza perfetta fra design e nome. Gli sfondi sono stati rimossi automaticamente e possono richiedere rifinitura. Non sono stati modificati danni o regole.

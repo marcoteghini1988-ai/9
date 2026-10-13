@@ -1,0 +1,1 @@
+V7: single complete primary sprite per weapon, normalized base, grounded shadow, recoil and muzzle flash. Existing combat logic unchanged. NOT a 3D animated model; enemy direction and muzzle accuracy require runtime visual verification.
